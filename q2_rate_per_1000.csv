@@ -1,0 +1,423 @@
+borough,crime_type_name,crimes_per_1000
+Sutton,Shoplifting,277.62
+Kensington and Chelsea,Theft from the person,194.95
+Kensington and Chelsea,Shoplifting,189.38
+Kensington and Chelsea,Violence and sexual offences,156.08
+Kensington and Chelsea,Other theft,153.48
+Kensington and Chelsea,Public order,146.24
+Westminster,Bicycle theft,143.1
+Westminster,Vehicle crime,139.48
+Lambeth,Theft from the person,139.08
+Kensington and Chelsea,Other crime,138.38
+Kensington and Chelsea,Burglary,132.35
+Westminster,Theft from the person,128.77
+Richmond upon Thames,Shoplifting,128.07
+Westminster,Burglary,126.58
+Merton,Shoplifting,126.32
+Westminster,Violence and sexual offences,124.65
+Westminster,Other theft,120.63
+Lambeth,Drugs,120.14
+Richmond upon Thames,Drugs,120.14
+Kensington and Chelsea,Criminal damage and arson,120.12
+Lambeth,Violence and sexual offences,119.73
+Kensington and Chelsea,Bicycle theft,119.15
+Westminster,Drugs,117.5
+Westminster,Public order,117.45
+Westminster,Criminal damage and arson,117.24
+Richmond upon Thames,Theft from the person,116.95
+Kensington and Chelsea,Robbery,115.36
+Tower Hamlets,Vehicle crime,115.22
+Richmond upon Thames,Public order,114.12
+Islington,Theft from the person,112.06
+Lambeth,Other theft,111.99
+Westminster,Shoplifting,111.45
+Merton,Vehicle crime,109.92
+Lambeth,Public order,109.53
+Richmond upon Thames,Violence and sexual offences,108.93
+Wandsworth,Public order,108.12
+Hammersmith and Fulham,Criminal damage and arson,106.66
+Merton,Drugs,105.98
+Wandsworth,Violence and sexual offences,105.9
+Merton,Public order,105.87
+Islington,Violence and sexual offences,105.55
+Hammersmith and Fulham,Theft from the person,105.01
+Westminster,Possession of weapons,104.66
+Richmond upon Thames,Burglary,104.05
+Merton,Violence and sexual offences,103.12
+Hammersmith and Fulham,Violence and sexual offences,102.91
+Wandsworth,Theft from the person,102.56
+Richmond upon Thames,Other crime,101.66
+Kensington and Chelsea,Drugs,101.47
+Islington,Other theft,100.71
+Hammersmith and Fulham,Public order,98.98
+Kensington and Chelsea,Possession of weapons,98.24
+Lambeth,Shoplifting,97.94
+Richmond upon Thames,Criminal damage and arson,97.89
+Richmond upon Thames,Robbery,97.02
+Wandsworth,Other theft,96.61
+Richmond upon Thames,Vehicle crime,95.86
+Richmond upon Thames,Other theft,95.76
+Merton,Other theft,94.92
+Hammersmith and Fulham,Other theft,94.05
+Ealing,Shoplifting,94.03
+Kingston upon Thames,Shoplifting,93.6
+Islington,Burglary,93.08
+Islington,Public order,93.06
+Merton,Robbery,92.49
+Havering,Violence and sexual offences,91.88
+Wandsworth,Drugs,91.61
+Richmond upon Thames,Bicycle theft,91.55
+Merton,Theft from the person,91.53
+Kingston upon Thames,Drugs,90.25
+Greenwich,Shoplifting,90.23
+Havering,Robbery,89.98
+Merton,Possession of weapons,89.71
+Wandsworth,Criminal damage and arson,89.66
+Southwark,Violence and sexual offences,89.24
+Kingston upon Thames,Vehicle crime,89.05
+Hammersmith and Fulham,Robbery,89.02
+Merton,Bicycle theft,89.01
+Sutton,Bicycle theft,88.78
+Westminster,Other crime,87.69
+Islington,Drugs,87.37
+Ealing,Public order,87.34
+Hammersmith and Fulham,Other crime,87.3
+Havering,Public order,86.47
+Merton,Criminal damage and arson,86.28
+Ealing,Other theft,85.56
+Lewisham,Burglary,85.52
+Islington,Possession of weapons,85.35
+Westminster,Robbery,85.3
+Hammersmith and Fulham,Possession of weapons,84.29
+Haringey,Vehicle crime,84.27
+Kingston upon Thames,Violence and sexual offences,83.94
+Southwark,Theft from the person,83.71
+Wandsworth,Burglary,83.33
+Croydon,Burglary,82.87
+Islington,Criminal damage and arson,82.84
+Havering,Criminal damage and arson,82.75
+Ealing,Violence and sexual offences,82.64
+Waltham Forest,Theft from the person,82.57
+Newham,Theft from the person,82.09
+Ealing,Theft from the person,81.79
+Haringey,Theft from the person,81.73
+Hammersmith and Fulham,Drugs,81.61
+Southwark,Public order,80.88
+Hammersmith and Fulham,Burglary,80.79
+Ealing,Drugs,80.51
+Lambeth,Other crime,80.5
+Havering,Theft from the person,80.13
+Merton,Other crime,80.09
+Kingston upon Thames,Possession of weapons,79.94
+Brent,Burglary,79.12
+Hammersmith and Fulham,Shoplifting,79.07
+Wandsworth,Bicycle theft,78.88
+Greenwich,Bicycle theft,78.59
+Islington,Bicycle theft,78.45
+Hammersmith and Fulham,Bicycle theft,78.44
+Wandsworth,Robbery,78.2
+Kingston upon Thames,Public order,77.97
+Greenwich,Violence and sexual offences,77.89
+Camden,Theft from the person,77.86
+Bromley,Burglary,77.54
+Croydon,Public order,77.25
+Haringey,Violence and sexual offences,77.22
+Croydon,Other crime,77.09
+Wandsworth,Vehicle crime,76.89
+Lewisham,Vehicle crime,76.76
+Lambeth,Burglary,76.35
+Waltham Forest,Burglary,76.21
+Lewisham,Public order,75.98
+Lambeth,Robbery,75.94
+Newham,Burglary,75.76
+Haringey,Other theft,75.7
+Croydon,Violence and sexual offences,75.65
+Croydon,Theft from the person,75.58
+Croydon,Drugs,75.3
+Lewisham,Theft from the person,75.14
+Croydon,Robbery,74.83
+Bromley,Criminal damage and arson,74.35
+Lambeth,Bicycle theft,74.32
+Bromley,Public order,74.0
+Kingston upon Thames,Other theft,73.8
+Lewisham,Other theft,73.8
+Haringey,Public order,73.79
+Islington,Robbery,73.29
+Croydon,Other theft,73.23
+Greenwich,Burglary,72.81
+Havering,Other theft,72.81
+Greenwich,Theft from the person,72.63
+Bromley,Violence and sexual offences,72.45
+Hounslow,Drugs,72.33
+Wandsworth,Other crime,72.24
+Kingston upon Thames,Criminal damage and arson,72.23
+Lewisham,Criminal damage and arson,72.13
+Southwark,Other theft,72.08
+Bromley,Robbery,72.07
+Wandsworth,Shoplifting,71.72
+Lewisham,Violence and sexual offences,71.36
+Havering,Possession of weapons,71.36
+Waltham Forest,Violence and sexual offences,71.3
+Sutton,Criminal damage and arson,71.01
+Greenwich,Other theft,70.98
+Brent,Shoplifting,70.9
+Greenwich,Public order,70.62
+Newham,Violence and sexual offences,70.41
+Bromley,Other theft,70.09
+Kingston upon Thames,Bicycle theft,70.03
+Bromley,Other crime,69.99
+Bromley,Drugs,69.87
+Camden,Other theft,69.78
+Islington,Other crime,69.66
+Wandsworth,Possession of weapons,69.42
+Croydon,Shoplifting,69.34
+Waltham Forest,Public order,69.19
+Camden,Violence and sexual offences,69.17
+Bexley,Criminal damage and arson,69.09
+Lambeth,Possession of weapons,68.9
+Enfield,Other crime,68.87
+Ealing,Criminal damage and arson,68.64
+Lewisham,Possession of weapons,68.63
+Lambeth,Vehicle crime,68.49
+Havering,Vehicle crime,68.26
+Bexley,Vehicle crime,68.19
+Croydon,Criminal damage and arson,67.85
+Lambeth,Criminal damage and arson,67.8
+Camden,Public order,67.42
+Islington,Shoplifting,67.3
+Sutton,Theft from the person,67.22
+Harrow,Other crime,66.96
+Bromley,Bicycle theft,66.83
+Greenwich,Robbery,66.45
+Newham,Public order,66.37
+Havering,Drugs,66.26
+Havering,Shoplifting,66.1
+Southwark,Bicycle theft,65.85
+Sutton,Robbery,65.02
+City of London,Violence and sexual offences,64.75
+Richmond upon Thames,Possession of weapons,64.72
+Ealing,Robbery,64.62
+Sutton,Public order,64.51
+Enfield,Criminal damage and arson,64.45
+Croydon,Possession of weapons,64.27
+Lewisham,Drugs,64.26
+Bromley,Theft from the person,63.96
+Havering,Other crime,63.9
+Lewisham,Shoplifting,63.78
+Redbridge,Criminal damage and arson,63.71
+Ealing,Vehicle crime,63.65
+Sutton,Drugs,63.61
+Havering,Bicycle theft,63.58
+Lewisham,Bicycle theft,63.53
+Haringey,Robbery,63.37
+Redbridge,Theft from the person,63.31
+Kingston upon Thames,Theft from the person,63.15
+Southwark,Robbery,62.97
+City of London,Theft from the person,62.91
+Hounslow,Shoplifting,62.9
+Newham,Other theft,62.79
+Bexley,Bicycle theft,62.67
+Lewisham,Robbery,62.64
+Ealing,Bicycle theft,62.62
+Waltham Forest,Other theft,62.05
+Haringey,Criminal damage and arson,61.56
+Redbridge,Public order,61.55
+Bexley,Public order,61.3
+Waltham Forest,Possession of weapons,61.3
+Merton,Burglary,61.27
+Hackney,Violence and sexual offences,60.99
+Bexley,Other theft,60.97
+Ealing,Possession of weapons,60.83
+Bexley,Shoplifting,60.83
+Waltham Forest,Drugs,60.79
+Bexley,Theft from the person,60.62
+Redbridge,Violence and sexual offences,60.13
+Waltham Forest,Shoplifting,60.1
+Bromley,Possession of weapons,59.89
+Barking and Dagenham,Burglary,59.81
+Waltham Forest,Bicycle theft,59.54
+Hackney,Theft from the person,59.33
+Hackney,Other crime,59.13
+Greenwich,Criminal damage and arson,58.98
+Hackney,Public order,58.62
+Haringey,Possession of weapons,58.54
+Sutton,Violence and sexual offences,58.4
+Brent,Violence and sexual offences,58.34
+Redbridge,Other theft,58.26
+Redbridge,Shoplifting,58.17
+Brent,Theft from the person,57.97
+Bromley,Vehicle crime,57.71
+Greenwich,Other crime,57.7
+Newham,Robbery,57.62
+Haringey,Other crime,57.4
+City of London,Other theft,57.23
+Enfield,Bicycle theft,57.19
+Kingston upon Thames,Robbery,57.04
+Hackney,Possession of weapons,56.86
+Newham,Shoplifting,56.54
+Newham,Possession of weapons,56.5
+City of London,Vehicle crime,56.22
+Kingston upon Thames,Other crime,56.22
+Croydon,Vehicle crime,56.19
+Hounslow,Public order,56.14
+Waltham Forest,Robbery,56.05
+City of London,Public order,56.0
+Redbridge,Robbery,55.98
+Brent,Public order,55.96
+Havering,Burglary,55.93
+Southwark,Criminal damage and arson,55.93
+Haringey,Shoplifting,55.7
+Tower Hamlets,Criminal damage and arson,55.69
+Harrow,Criminal damage and arson,55.66
+Hounslow,Criminal damage and arson,55.62
+Southwark,Burglary,55.56
+Tower Hamlets,Violence and sexual offences,55.56
+Enfield,Public order,55.47
+Bexley,Violence and sexual offences,55.42
+Enfield,Violence and sexual offences,55.31
+Barnet,Public order,55.28
+Barnet,Violence and sexual offences,55.27
+Haringey,Bicycle theft,55.24
+Barnet,Criminal damage and arson,55.03
+Bexley,Drugs,54.95
+Hackney,Bicycle theft,54.52
+Sutton,Other crime,54.47
+Sutton,Possession of weapons,54.47
+Tower Hamlets,Theft from the person,54.44
+Croydon,Bicycle theft,54.32
+Barnet,Theft from the person,54.02
+Redbridge,Bicycle theft,54.01
+Sutton,Vehicle crime,53.98
+Camden,Criminal damage and arson,53.97
+Brent,Other theft,53.79
+Waltham Forest,Criminal damage and arson,53.73
+Ealing,Burglary,53.72
+Greenwich,Drugs,53.69
+Tower Hamlets,Public order,53.58
+Redbridge,Other crime,53.01
+Redbridge,Drugs,52.81
+Barnet,Other theft,52.74
+Hackney,Drugs,52.58
+Barnet,Vehicle crime,52.58
+Sutton,Other theft,52.47
+Hounslow,Other theft,52.44
+Enfield,Other theft,52.41
+Brent,Criminal damage and arson,52.36
+Southwark,Drugs,52.29
+Haringey,Drugs,52.23
+Hounslow,Violence and sexual offences,52.1
+Redbridge,Possession of weapons,51.96
+Barnet,Robbery,51.65
+Greenwich,Vehicle crime,51.31
+Barnet,Bicycle theft,51.31
+Hammersmith and Fulham,Vehicle crime,51.11
+Hackney,Other theft,50.78
+Enfield,Theft from the person,50.09
+Camden,Shoplifting,50.05
+Harrow,Shoplifting,50.0
+Newham,Bicycle theft,49.93
+Enfield,Shoplifting,49.8
+Redbridge,Vehicle crime,49.69
+Hounslow,Theft from the person,49.47
+Enfield,Robbery,49.47
+Harrow,Burglary,49.31
+Southwark,Other crime,49.05
+Newham,Criminal damage and arson,48.61
+Hounslow,Possession of weapons,48.51
+Hounslow,Robbery,48.24
+Enfield,Burglary,48.18
+Harrow,Violence and sexual offences,48.16
+Hounslow,Bicycle theft,47.93
+Newham,Drugs,47.84
+Ealing,Other crime,47.09
+Bexley,Robbery,46.57
+Tower Hamlets,Other theft,46.55
+Barnet,Other crime,46.35
+Redbridge,Burglary,45.91
+Enfield,Possession of weapons,45.88
+Hackney,Robbery,45.8
+Harrow,Theft from the person,45.56
+Harrow,Other theft,45.56
+Barnet,Drugs,45.54
+Harrow,Public order,45.38
+Hackney,Criminal damage and arson,45.36
+Brent,Robbery,45.21
+Harrow,Possession of weapons,44.96
+Hillingdon,Vehicle crime,44.67
+Southwark,Possession of weapons,44.63
+Barnet,Burglary,44.56
+Harrow,Bicycle theft,44.27
+Bexley,Burglary,44.25
+Harrow,Robbery,44.24
+Enfield,Vehicle crime,43.89
+Camden,Robbery,43.79
+Bexley,Possession of weapons,43.76
+Brent,Drugs,43.2
+Hillingdon,Criminal damage and arson,42.53
+Haringey,Burglary,42.36
+Hillingdon,Violence and sexual offences,42.33
+Hillingdon,Public order,42.09
+Hillingdon,Robbery,41.7
+Brent,Possession of weapons,41.51
+Hackney,Shoplifting,41.39
+Tower Hamlets,Possession of weapons,41.28
+Hillingdon,Burglary,41.01
+City of London,Bicycle theft,40.79
+Tower Hamlets,Drugs,40.44
+Hillingdon,Shoplifting,40.44
+Hillingdon,Bicycle theft,40.03
+Hackney,Burglary,39.56
+Southwark,Shoplifting,39.53
+Hillingdon,Other theft,39.41
+Newham,Other crime,39.39
+Barnet,Possession of weapons,39.29
+Hillingdon,Possession of weapons,38.65
+Hounslow,Vehicle crime,37.82
+Hounslow,Other crime,37.65
+Harrow,Drugs,37.6
+Hillingdon,Theft from the person,37.58
+City of London,Robbery,37.28
+Tower Hamlets,Robbery,37.09
+Brent,Bicycle theft,36.92
+Harrow,Vehicle crime,36.74
+Kingston upon Thames,Burglary,36.34
+City of London,Drugs,36.23
+Greenwich,Possession of weapons,36.22
+Tower Hamlets,Bicycle theft,35.97
+Tower Hamlets,Shoplifting,35.85
+City of London,Criminal damage and arson,35.63
+Hillingdon,Drugs,35.51
+Barnet,Shoplifting,35.0
+City of London,Shoplifting,34.84
+Enfield,Drugs,34.79
+Camden,Drugs,34.34
+Camden,Bicycle theft,34.13
+Barking and Dagenham,Robbery,33.95
+Tower Hamlets,Other crime,33.64
+Barking and Dagenham,Theft from the person,33.42
+Barking and Dagenham,Violence and sexual offences,33.07
+Hillingdon,Other crime,32.18
+Hounslow,Burglary,31.56
+Camden,Burglary,30.92
+City of London,Possession of weapons,30.59
+City of London,Other crime,30.59
+City of London,Burglary,30.59
+Waltham Forest,Vehicle crime,30.32
+Tower Hamlets,Burglary,29.72
+Barking and Dagenham,Bicycle theft,29.6
+Camden,Possession of weapons,29.54
+Brent,Other crime,29.04
+Barking and Dagenham,Shoplifting,28.85
+Barking and Dagenham,Public order,28.78
+Waltham Forest,Other crime,28.02
+Southwark,Vehicle crime,27.56
+Camden,Other crime,26.79
+Newham,Vehicle crime,24.98
+Barking and Dagenham,Other theft,24.92
+Camden,Vehicle crime,23.25
+Brent,Vehicle crime,22.93
+Barking and Dagenham,Criminal damage and arson,20.77
+Barking and Dagenham,Drugs,19.2
+Barking and Dagenham,Vehicle crime,17.55
+Barking and Dagenham,Possession of weapons,16.78
+Barking and Dagenham,Other crime,16.15

@@ -1,0 +1,100 @@
+borough,crime_type_name,total_crimes
+Westminster,Violence and sexual offences,53753
+Lambeth,Violence and sexual offences,17873
+Islington,Violence and sexual offences,17176
+Camden,Violence and sexual offences,16112
+Southwark,Violence and sexual offences,14059
+Westminster,Drugs,12026
+Westminster,Robbery,11592
+Tower Hamlets,Violence and sexual offences,11500
+Kensington and Chelsea,Violence and sexual offences,10800
+Hammersmith and Fulham,Violence and sexual offences,9401
+City of London,Violence and sexual offences,9312
+Haringey,Violence and sexual offences,8790
+Brent,Violence and sexual offences,8682
+Ealing,Violence and sexual offences,8260
+Croydon,Violence and sexual offences,7890
+Wandsworth,Violence and sexual offences,7594
+Newham,Violence and sexual offences,7462
+Hackney,Violence and sexual offences,6589
+Greenwich,Violence and sexual offences,6233
+Redbridge,Violence and sexual offences,5986
+Barnet,Violence and sexual offences,5964
+Lambeth,Robbery,5002
+Lewisham,Violence and sexual offences,4983
+Waltham Forest,Violence and sexual offences,4924
+Merton,Violence and sexual offences,4812
+Bromley,Violence and sexual offences,4425
+Croydon,Robbery,4354
+Lambeth,Drugs,4061
+Richmond upon Thames,Violence and sexual offences,4030
+Havering,Violence and sexual offences,3974
+Enfield,Violence and sexual offences,3792
+Haringey,Robbery,3602
+Southwark,Robbery,3332
+Kingston upon Thames,Violence and sexual offences,3158
+Islington,Drugs,3153
+Hounslow,Violence and sexual offences,3101
+Camden,Robbery,3021
+Islington,Robbery,2884
+Hillingdon,Violence and sexual offences,2745
+Bexley,Violence and sexual offences,2279
+Barking and Dagenham,Violence and sexual offences,2255
+Wandsworth,Drugs,2186
+Newham,Robbery,2053
+Hammersmith and Fulham,Robbery,1959
+Tower Hamlets,Robbery,1955
+Brent,Robbery,1953
+Wandsworth,Robbery,1854
+Kensington and Chelsea,Robbery,1814
+Bromley,Robbery,1801
+Greenwich,Robbery,1777
+Southwark,Drugs,1775
+Redbridge,Robbery,1610
+Barnet,Robbery,1605
+Harrow,Violence and sexual offences,1527
+Camden,Drugs,1451
+Croydon,Drugs,1373
+Haringey,Drugs,1361
+Barking and Dagenham,Robbery,1343
+Ealing,Robbery,1323
+Havering,Robbery,1248
+Lewisham,Robbery,1225
+Tower Hamlets,Drugs,1183
+Kingston upon Thames,Drugs,1179
+Richmond upon Thames,Drugs,1169
+Sutton,Violence and sexual offences,1166
+City of London,Robbery,1124
+Waltham Forest,Robbery,1094
+Brent,Drugs,1084
+Enfield,Robbery,1081
+City of London,Drugs,1076
+Hammersmith and Fulham,Drugs,1064
+Ealing,Drugs,1039
+Newham,Drugs,1002
+Hackney,Robbery,877
+Richmond upon Thames,Robbery,814
+Merton,Robbery,802
+Greenwich,Drugs,739
+Redbridge,Drugs,733
+Havering,Drugs,678
+Hillingdon,Robbery,661
+Barking and Dagenham,Drugs,648
+Lewisham,Drugs,590
+Sutton,Robbery,552
+Kensington and Chelsea,Drugs,537
+Harrow,Robbery,519
+Bexley,Robbery,444
+Hounslow,Robbery,420
+Waltham Forest,Drugs,394
+Hackney,Drugs,309
+Barnet,Drugs,307
+Bexley,Drugs,258
+Bromley,Drugs,234
+Merton,Drugs,218
+Hounslow,Drugs,207
+Kingston upon Thames,Robbery,199
+Sutton,Drugs,136
+Harrow,Drugs,107
+Hillingdon,Drugs,91
+Enfield,Drugs,91

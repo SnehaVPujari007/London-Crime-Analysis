@@ -1,0 +1,426 @@
+lsoa_name,date_key,total_crimes,rn
+Westminster 023E,2022-05,6784,1.0
+Lambeth 036E,2022-05,3528,2.0
+City of London 001F,2022-05,1744,3.0
+Westminster 017D,2022-05,1421,4.0
+Westminster 018A,2022-05,1372,5.0
+Camden 022E,2022-05,1312,6.0
+Islington 005B,2022-05,1296,7.0
+Westminster 008D,2022-05,1280,8.0
+Southwark 006F,2022-05,1125,9.0
+Islington 013D,2022-05,1029,10.0
+Westminster 023E,2022-06,5440,1.0
+Westminster 017D,2022-06,3087,2.0
+Lambeth 036E,2022-06,1960,3.0
+Westminster 018A,2022-06,1813,4.0
+City of London 001F,2022-06,1744,5.0
+Camden 022E,2022-06,1424,6.0
+Westminster 018C,2022-06,1300,7.0
+Westminster 008D,2022-06,1088,8.0
+Islington 005B,2022-06,1044,9.0
+Camden 028B,2022-06,1008,10.0
+Westminster 023E,2022-07,5248,1.0
+Westminster 017D,2022-07,2646,2.0
+Lambeth 036E,2022-07,1960,3.0
+City of London 001F,2022-07,1808,4.0
+Wandsworth 012E,2022-07,1656,5.0
+Islington 005B,2022-07,1476,6.0
+Westminster 018A,2022-07,1421,7.0
+Camden 022E,2022-07,1248,8.0
+Westminster 013B,2022-07,1225,9.0
+Westminster 008D,2022-07,1152,10.0
+Westminster 023E,2022-08,1600,1.0
+Lambeth 036E,2022-08,1127,2.0
+City of London 001F,2022-08,816,3.0
+Westminster 018A,2022-08,784,4.0
+Westminster 017D,2022-08,637,5.0
+Westminster 008D,2022-08,576,6.0
+Islington 013D,2022-08,490,7.0
+Westminster 008A,2022-08,490,7.0
+Westminster 020C,2022-08,490,7.0
+Kingston upon Thames 011B,2022-08,441,8.0
+Wandsworth 012E,2022-08,432,9.0
+Islington 005B,2022-08,396,10.0
+Westminster 023E,2022-09,1472,1.0
+Lambeth 036E,2022-09,833,2.0
+City of London 001F,2022-09,704,3.0
+Westminster 017D,2022-09,637,4.0
+Westminster 018A,2022-09,637,4.0
+Westminster 008D,2022-09,512,5.0
+Southwark 007B,2022-09,441,6.0
+Westminster 020C,2022-09,441,6.0
+Camden 028B,2022-09,396,7.0
+Wandsworth 012E,2022-09,396,7.0
+Islington 005B,2022-09,360,8.0
+Kingston upon Thames 011B,2022-09,343,9.0
+Westminster 008A,2022-09,343,9.0
+Ealing 041A,2022-09,324,10.0
+Westminster 023E,2022-10,1344,1.0
+Lambeth 036E,2022-10,980,2.0
+Westminster 017D,2022-10,686,3.0
+Westminster 018A,2022-10,686,3.0
+Westminster 008D,2022-10,640,4.0
+Islington 013D,2022-10,637,5.0
+City of London 001F,2022-10,624,6.0
+Islington 005B,2022-10,504,7.0
+Westminster 020C,2022-10,490,8.0
+Hammersmith and Fulham 004A,2022-10,441,9.0
+Havering 013C,2022-10,392,10.0
+Kingston upon Thames 011B,2022-10,392,10.0
+Westminster 008A,2022-10,392,10.0
+Westminster 013B,2022-10,392,10.0
+Westminster 023E,2022-11,1472,1.0
+Lambeth 036E,2022-11,1225,2.0
+City of London 001F,2022-11,816,3.0
+Westminster 018A,2022-11,735,4.0
+Hammersmith and Fulham 004A,2022-11,637,5.0
+Westminster 020C,2022-11,637,5.0
+Westminster 008D,2022-11,576,6.0
+Southwark 007B,2022-11,539,7.0
+Westminster 017D,2022-11,539,7.0
+Islington 013D,2022-11,490,8.0
+Westminster 011B,2022-11,441,9.0
+Ealing 041A,2022-11,432,10.0
+Islington 005B,2022-11,432,10.0
+Wandsworth 012E,2022-11,432,10.0
+Westminster 023E,2022-12,1600,1.0
+Lambeth 036E,2022-12,1029,2.0
+City of London 001F,2022-12,752,3.0
+Westminster 017D,2022-12,686,4.0
+Westminster 018A,2022-12,686,4.0
+Westminster 008D,2022-12,640,5.0
+Islington 013D,2022-12,539,6.0
+Southwark 007B,2022-12,539,6.0
+Westminster 020C,2022-12,539,6.0
+Westminster 011B,2022-12,490,7.0
+Westminster 013B,2022-12,490,7.0
+Islington 005B,2022-12,468,8.0
+Wandsworth 012E,2022-12,396,9.0
+Westminster 018B,2022-12,396,9.0
+Kensington and Chelsea 012A,2022-12,384,10.0
+Westminster 023E,2023-01,1536,1.0
+Lambeth 036E,2023-01,1176,2.0
+Westminster 018A,2023-01,882,3.0
+City of London 001F,2023-01,704,4.0
+Hammersmith and Fulham 004A,2023-01,686,5.0
+Westminster 017D,2023-01,637,6.0
+Westminster 008D,2023-01,576,7.0
+Islington 013D,2023-01,539,8.0
+Westminster 011B,2023-01,539,8.0
+Islington 005B,2023-01,504,9.0
+Southwark 007B,2023-01,490,10.0
+Westminster 020C,2023-01,490,10.0
+Westminster 023E,2023-02,1408,1.0
+Lambeth 036E,2023-02,833,2.0
+City of London 001F,2023-02,784,3.0
+Westminster 018A,2023-02,784,3.0
+Westminster 017D,2023-02,588,4.0
+Westminster 020C,2023-02,539,5.0
+Westminster 008D,2023-02,512,6.0
+Westminster 013B,2023-02,490,7.0
+Islington 013D,2023-02,441,8.0
+Westminster 008A,2023-02,441,8.0
+Hammersmith and Fulham 013C,2023-02,396,9.0
+Southwark 007B,2023-02,392,10.0
+Westminster 011B,2023-02,392,10.0
+Westminster 023E,2023-03,1536,1.0
+Lambeth 036E,2023-03,1225,2.0
+City of London 001F,2023-03,784,3.0
+Westminster 020C,2023-03,686,4.0
+Hammersmith and Fulham 004A,2023-03,637,5.0
+Westminster 017D,2023-03,637,5.0
+Westminster 018A,2023-03,637,5.0
+Westminster 013B,2023-03,539,6.0
+Westminster 008D,2023-03,512,7.0
+Kingston upon Thames 011B,2023-03,490,8.0
+Westminster 008A,2023-03,490,8.0
+Ealing 041A,2023-03,468,9.0
+Islington 005B,2023-03,468,9.0
+Wandsworth 012E,2023-03,468,9.0
+Kensington and Chelsea 008D,2023-03,448,10.0
+Westminster 023E,2023-04,1344,1.0
+Lambeth 036E,2023-04,1176,2.0
+Islington 013D,2023-04,784,3.0
+Westminster 008D,2023-04,768,4.0
+City of London 001F,2023-04,688,5.0
+Westminster 018A,2023-04,686,6.0
+Westminster 017D,2023-04,637,7.0
+Westminster 020C,2023-04,637,7.0
+Westminster 008A,2023-04,588,8.0
+Westminster 013B,2023-04,490,9.0
+Islington 023D,2023-04,448,10.0
+Westminster 023E,2023-05,1216,1.0
+Lambeth 036E,2023-05,1078,2.0
+City of London 001F,2023-05,832,3.0
+Westminster 017D,2023-05,735,4.0
+Westminster 018A,2023-05,735,4.0
+Westminster 020C,2023-05,686,5.0
+Islington 013D,2023-05,588,6.0
+Westminster 018C,2023-05,500,7.0
+Kingston upon Thames 011B,2023-05,490,8.0
+Southwark 007B,2023-05,490,8.0
+Hammersmith and Fulham 013C,2023-05,468,9.0
+Islington 005B,2023-05,468,9.0
+Westminster 008D,2023-05,448,10.0
+Westminster 023E,2023-06,1600,1.0
+Lambeth 036E,2023-06,1127,2.0
+Westminster 020C,2023-06,931,3.0
+Westminster 008A,2023-06,784,4.0
+Westminster 018A,2023-06,784,4.0
+City of London 001F,2023-06,736,5.0
+Westminster 008D,2023-06,640,6.0
+Westminster 017D,2023-06,588,7.0
+Hammersmith and Fulham 004A,2023-06,539,8.0
+Islington 013D,2023-06,539,8.0
+Islington 023D,2023-06,512,9.0
+Hammersmith and Fulham 013C,2023-06,468,10.0
+Westminster 023E,2023-07,1408,1.0
+Lambeth 036E,2023-07,1127,2.0
+City of London 001F,2023-07,848,3.0
+Westminster 020C,2023-07,735,4.0
+Westminster 008A,2023-07,686,5.0
+Westminster 017D,2023-07,686,5.0
+Westminster 018A,2023-07,686,5.0
+Southwark 007B,2023-07,637,6.0
+Westminster 008D,2023-07,576,7.0
+Islington 005B,2023-07,504,8.0
+Hammersmith and Fulham 004A,2023-07,490,9.0
+Islington 013D,2023-07,490,9.0
+Westminster 011B,2023-07,490,9.0
+Westminster 013B,2023-07,490,9.0
+Camden 010E,2023-07,396,10.0
+Ealing 041A,2023-07,396,10.0
+Islington 022D,2023-07,396,10.0
+Wandsworth 012E,2023-07,396,10.0
+Westminster 023E,2023-08,1472,1.0
+Lambeth 036E,2023-08,931,2.0
+Westminster 020C,2023-08,931,2.0
+Westminster 018A,2023-08,833,3.0
+City of London 001F,2023-08,768,4.0
+Westminster 017D,2023-08,735,5.0
+Westminster 008D,2023-08,704,6.0
+Islington 013D,2023-08,588,7.0
+Wandsworth 012E,2023-08,504,8.0
+Hammersmith and Fulham 004A,2023-08,490,9.0
+Westminster 013B,2023-08,441,10.0
+Westminster 023E,2023-09,1536,1.0
+Westminster 018A,2023-09,931,2.0
+Lambeth 036E,2023-09,833,3.0
+City of London 001F,2023-09,784,4.0
+Westminster 017D,2023-09,735,5.0
+Islington 013D,2023-09,637,6.0
+Westminster 008D,2023-09,576,7.0
+Hammersmith and Fulham 004A,2023-09,539,8.0
+Westminster 020C,2023-09,539,8.0
+Islington 005B,2023-09,468,9.0
+Kensington and Chelsea 008D,2023-09,448,10.0
+Westminster 023E,2023-10,1536,1.0
+City of London 001F,2023-10,944,2.0
+Lambeth 036E,2023-10,784,3.0
+Westminster 018A,2023-10,784,3.0
+Westminster 017D,2023-10,735,4.0
+Westminster 008D,2023-10,640,5.0
+Westminster 020C,2023-10,637,6.0
+Islington 013D,2023-10,588,7.0
+Tower Hamlets 033A,2023-10,539,8.0
+Westminster 008A,2023-10,539,8.0
+Westminster 013B,2023-10,490,9.0
+Haringey 025B,2023-10,468,10.0
+Westminster 023E,2023-11,1600,1.0
+City of London 001F,2023-11,880,2.0
+Lambeth 036E,2023-11,833,3.0
+Islington 013D,2023-11,735,4.0
+Westminster 008D,2023-11,704,5.0
+Westminster 017D,2023-11,686,6.0
+Westminster 020C,2023-11,686,6.0
+Camden 010E,2023-11,684,7.0
+Westminster 018A,2023-11,637,8.0
+Kingston upon Thames 011B,2023-11,588,9.0
+Richmond upon Thames 006A,2023-11,588,9.0
+Westminster 008A,2023-11,588,9.0
+Southwark 007B,2023-11,539,10.0
+Westminster 023E,2023-12,1344,1.0
+City of London 001F,2023-12,848,2.0
+Lambeth 036E,2023-12,833,3.0
+Westminster 020C,2023-12,784,4.0
+Westminster 017D,2023-12,686,5.0
+Islington 013D,2023-12,637,6.0
+Westminster 008A,2023-12,637,6.0
+Westminster 018A,2023-12,588,7.0
+Westminster 008D,2023-12,512,8.0
+Westminster 011B,2023-12,490,9.0
+Wandsworth 012E,2023-12,468,10.0
+Westminster 023E,2024-01,1536,1.0
+Lambeth 036E,2024-01,882,2.0
+City of London 001F,2024-01,880,3.0
+Islington 013D,2024-01,784,4.0
+Westminster 008D,2024-01,768,5.0
+Westminster 018A,2024-01,735,6.0
+Richmond upon Thames 006A,2024-01,637,7.0
+Westminster 013B,2024-01,588,8.0
+Westminster 017D,2024-01,588,8.0
+Hammersmith and Fulham 004A,2024-01,539,9.0
+Ealing 041A,2024-01,504,10.0
+Westminster 023E,2024-02,1600,1.0
+Westminster 020C,2024-02,882,2.0
+Westminster 008D,2024-02,832,3.0
+City of London 001F,2024-02,816,4.0
+Westminster 018A,2024-02,784,5.0
+Lambeth 036E,2024-02,686,6.0
+Hammersmith and Fulham 004A,2024-02,637,7.0
+Islington 013D,2024-02,588,8.0
+Westminster 013B,2024-02,588,8.0
+Westminster 017D,2024-02,588,8.0
+Islington 005B,2024-02,576,9.0
+Ealing 041A,2024-02,540,10.0
+Westminster 023E,2024-03,1536,1.0
+Westminster 018A,2024-03,882,2.0
+City of London 001F,2024-03,880,3.0
+Lambeth 036E,2024-03,784,4.0
+Westminster 008D,2024-03,640,5.0
+Islington 013D,2024-03,637,6.0
+Westminster 020C,2024-03,637,6.0
+Westminster 017D,2024-03,588,7.0
+Wandsworth 012E,2024-03,576,8.0
+Southwark 007B,2024-03,539,9.0
+Westminster 013B,2024-03,539,9.0
+Islington 005B,2024-03,504,10.0
+Westminster 023E,2024-04,1408,1.0
+City of London 001F,2024-04,896,2.0
+Lambeth 036E,2024-04,735,3.0
+Islington 013D,2024-04,686,4.0
+Westminster 017D,2024-04,686,4.0
+Westminster 018A,2024-04,686,4.0
+Westminster 020C,2024-04,686,4.0
+Westminster 008D,2024-04,640,5.0
+Islington 022D,2024-04,504,6.0
+Westminster 013B,2024-04,490,7.0
+Islington 005B,2024-04,468,8.0
+Hammersmith and Fulham 004A,2024-04,441,9.0
+Westminster 008A,2024-04,441,9.0
+Westminster 011B,2024-04,441,9.0
+Camden 010E,2024-04,396,10.0
+Wandsworth 012E,2024-04,396,10.0
+Westminster 023E,2024-05,1600,1.0
+City of London 001F,2024-05,816,2.0
+Lambeth 036E,2024-05,784,3.0
+Westminster 017D,2024-05,784,3.0
+Westminster 018A,2024-05,784,3.0
+Hammersmith and Fulham 004A,2024-05,637,4.0
+Islington 013D,2024-05,637,4.0
+Richmond upon Thames 006A,2024-05,637,4.0
+Westminster 020C,2024-05,637,4.0
+Westminster 013B,2024-05,588,5.0
+Westminster 008D,2024-05,576,6.0
+Southwark 007B,2024-05,490,7.0
+Westminster 008A,2024-05,490,7.0
+Islington 005B,2024-05,468,8.0
+Islington 022D,2024-05,468,8.0
+Wandsworth 012E,2024-05,432,9.0
+Haringey 025B,2024-05,396,10.0
+Westminster 023E,2024-06,1728,1.0
+Lambeth 036E,2024-06,882,2.0
+Westminster 011B,2024-06,882,2.0
+Westminster 020C,2024-06,784,3.0
+City of London 001F,2024-06,736,4.0
+Westminster 018A,2024-06,735,5.0
+Westminster 008D,2024-06,704,6.0
+Islington 013D,2024-06,588,7.0
+Richmond upon Thames 006A,2024-06,588,7.0
+Islington 022D,2024-06,540,8.0
+Westminster 013B,2024-06,490,9.0
+Westminster 017D,2024-06,490,9.0
+Southwark 007B,2024-06,441,10.0
+Westminster 023E,2024-07,1664,1.0
+Lambeth 036E,2024-07,980,2.0
+City of London 001F,2024-07,960,3.0
+Westminster 018A,2024-07,833,4.0
+Westminster 020C,2024-07,833,4.0
+Islington 013D,2024-07,784,5.0
+Westminster 017D,2024-07,686,6.0
+Westminster 008D,2024-07,640,7.0
+Wandsworth 012E,2024-07,540,8.0
+Islington 005B,2024-07,504,9.0
+Hammersmith and Fulham 004A,2024-07,490,10.0
+Richmond upon Thames 006A,2024-07,490,10.0
+Westminster 023E,2024-08,1600,1.0
+City of London 001F,2024-08,880,2.0
+Westminster 020C,2024-08,784,3.0
+Westminster 018A,2024-08,735,4.0
+Westminster 008D,2024-08,704,5.0
+Hammersmith and Fulham 004A,2024-08,686,6.0
+Lambeth 036E,2024-08,686,6.0
+Ealing 041A,2024-08,612,7.0
+Westminster 017D,2024-08,588,8.0
+Islington 013D,2024-08,539,9.0
+Camden 010E,2024-08,504,10.0
+Westminster 023E,2024-09,1600,1.0
+City of London 001F,2024-09,800,2.0
+Westminster 020C,2024-09,784,3.0
+Westminster 018A,2024-09,735,4.0
+Westminster 008D,2024-09,704,5.0
+Hammersmith and Fulham 004A,2024-09,686,6.0
+Westminster 017D,2024-09,686,6.0
+Lambeth 036E,2024-09,637,7.0
+Islington 013D,2024-09,490,8.0
+Richmond upon Thames 006A,2024-09,490,8.0
+Kensington and Chelsea 018D,2024-09,448,9.0
+Westminster 013B,2024-09,441,10.0
+Westminster 023E,2024-10,1600,1.0
+City of London 001F,2024-10,880,2.0
+Islington 013D,2024-10,735,3.0
+Westminster 020C,2024-10,735,3.0
+Westminster 008D,2024-10,704,4.0
+Lambeth 036E,2024-10,686,5.0
+Westminster 017D,2024-10,637,6.0
+Westminster 018A,2024-10,637,6.0
+Richmond upon Thames 006A,2024-10,588,7.0
+Islington 005B,2024-10,540,8.0
+Southwark 007B,2024-10,539,9.0
+Westminster 013B,2024-10,539,9.0
+Hillingdon 031A,2024-10,500,10.0
+Westminster 023E,2024-11,1344,1.0
+Lambeth 036E,2024-11,980,2.0
+Westminster 018A,2024-11,931,3.0
+City of London 001F,2024-11,864,4.0
+Westminster 008D,2024-11,768,5.0
+Westminster 020C,2024-11,735,6.0
+Westminster 017D,2024-11,686,7.0
+Hammersmith and Fulham 013C,2024-11,540,8.0
+Southwark 007B,2024-11,539,9.0
+Islington 013D,2024-11,490,10.0
+Westminster 011B,2024-11,490,10.0
+Westminster 023E,2024-12,1408,1.0
+Westminster 018A,2024-12,980,2.0
+Lambeth 036E,2024-12,931,3.0
+City of London 001F,2024-12,896,4.0
+Westminster 020C,2024-12,833,5.0
+Hammersmith and Fulham 004A,2024-12,735,6.0
+Westminster 017D,2024-12,735,6.0
+Westminster 008D,2024-12,704,7.0
+Islington 013D,2024-12,588,8.0
+Southwark 007B,2024-12,539,9.0
+Wandsworth 012E,2024-12,504,10.0
+Westminster 023E,2025-01,1728,1.0
+Westminster 020C,2025-01,833,2.0
+Lambeth 036E,2025-01,735,3.0
+City of London 001F,2025-01,720,4.0
+Westminster 017D,2025-01,686,5.0
+Westminster 008D,2025-01,640,6.0
+Islington 013D,2025-01,588,7.0
+Westminster 008A,2025-01,588,7.0
+Westminster 018A,2025-01,588,7.0
+Hammersmith and Fulham 004A,2025-01,539,8.0
+Westminster 011B,2025-01,539,8.0
+Islington 005B,2025-01,504,9.0
+Wandsworth 012E,2025-01,504,9.0
+Southwark 007B,2025-01,490,10.0
+Westminster 020A,2025-02,64,1.0
+Lewisham 029A,2025-02,25,2.0
+Bromley 021E,2025-02,16,3.0
+Croydon 045A,2025-02,16,3.0
+Redbridge 013D,2025-02,16,3.0
+Westminster 013A,2025-03,50,1.0
+Wandsworth 001A,2025-03,49,2.0
+Greenwich 002A,2025-03,16,3.0
+Westminster 020A,2025-04,128,1.0

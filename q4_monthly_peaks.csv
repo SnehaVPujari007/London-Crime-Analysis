@@ -1,0 +1,434 @@
+year,month_num,crime_type_name,total_crimes
+2022,7,Violence and sexual offences,14486
+2022,6,Violence and sexual offences,13136
+2022,5,Violence and sexual offences,12977
+2022,5,Public order,12633
+2022,7,Theft from the person,12486
+2022,6,Theft from the person,11338
+2022,5,Theft from the person,10764
+2022,6,Public order,10196
+2024,8,Public order,10078
+2025,1,Theft from the person,10031
+2024,11,Theft from the person,9917
+2024,12,Theft from the person,9734
+2024,1,Theft from the person,9470
+2022,6,Other theft,9319
+2023,11,Theft from the person,9288
+2023,10,Public order,9276
+2023,11,Public order,9265
+2022,7,Public order,9224
+2024,8,Violence and sexual offences,9015
+2024,10,Violence and sexual offences,8995
+2024,5,Theft from the person,8956
+2024,9,Theft from the person,8936
+2024,3,Theft from the person,8921
+2024,7,Public order,8843
+2024,10,Theft from the person,8830
+2024,7,Theft from the person,8801
+2023,10,Violence and sexual offences,8760
+2024,7,Violence and sexual offences,8745
+2024,2,Violence and sexual offences,8700
+2024,9,Violence and sexual offences,8685
+2023,7,Violence and sexual offences,8656
+2024,6,Public order,8644
+2022,7,Other theft,8586
+2023,11,Violence and sexual offences,8568
+2023,6,Violence and sexual offences,8536
+2024,6,Violence and sexual offences,8528
+2024,6,Theft from the person,8512
+2024,5,Violence and sexual offences,8506
+2023,7,Theft from the person,8475
+2024,2,Theft from the person,8461
+2023,9,Public order,8460
+2023,3,Theft from the person,8454
+2023,8,Violence and sexual offences,8408
+2023,12,Violence and sexual offences,8381
+2023,9,Violence and sexual offences,8322
+2024,5,Public order,8304
+2024,12,Public order,8282
+2024,4,Theft from the person,8265
+2023,12,Theft from the person,8253
+2024,8,Theft from the person,8234
+2023,5,Theft from the person,8214
+2023,2,Theft from the person,8126
+2023,10,Theft from the person,8120
+2023,6,Theft from the person,8105
+2023,12,Public order,8091
+2024,12,Violence and sexual offences,8074
+2025,1,Violence and sexual offences,8053
+2024,1,Public order,8045
+2024,11,Violence and sexual offences,8039
+2023,3,Violence and sexual offences,8023
+2024,11,Public order,7949
+2022,11,Public order,7944
+2023,8,Public order,7932
+2024,9,Public order,7873
+2024,10,Public order,7853
+2023,8,Theft from the person,7794
+2024,4,Violence and sexual offences,7790
+2024,1,Violence and sexual offences,7779
+2024,3,Public order,7761
+2022,10,Violence and sexual offences,7705
+2025,1,Public order,7702
+2023,3,Public order,7683
+2022,11,Violence and sexual offences,7659
+2023,5,Violence and sexual offences,7645
+2024,3,Violence and sexual offences,7627
+2023,4,Theft from the person,7609
+2023,1,Theft from the person,7604
+2022,11,Theft from the person,7552
+2023,5,Public order,7536
+2022,8,Violence and sexual offences,7526
+2024,2,Public order,7507
+2024,7,Other theft,7497
+2023,7,Public order,7489
+2022,5,Other theft,7356
+2023,9,Other theft,7330
+2023,1,Violence and sexual offences,7325
+2022,12,Theft from the person,7311
+2023,9,Theft from the person,7238
+2023,6,Public order,7230
+2023,7,Other theft,7221
+2022,8,Theft from the person,7137
+2024,4,Public order,7122
+2023,4,Violence and sexual offences,7081
+2023,6,Other theft,7046
+2023,4,Public order,7046
+2022,11,Other theft,7036
+2024,10,Other theft,6951
+2023,2,Other theft,6867
+2022,10,Public order,6761
+2023,2,Public order,6757
+2024,2,Other theft,6694
+2023,11,Other theft,6661
+2024,5,Other theft,6661
+2023,2,Violence and sexual offences,6660
+2022,10,Other theft,6617
+2024,12,Other theft,6585
+2024,6,Other theft,6584
+2023,5,Other theft,6577
+2024,11,Other theft,6572
+2024,9,Other theft,6523
+2023,1,Public order,6493
+2023,12,Other theft,6485
+2022,12,Violence and sexual offences,6471
+2024,8,Other theft,6470
+2023,10,Other theft,6369
+2023,8,Other theft,6326
+2022,8,Public order,6282
+2022,12,Public order,6252
+2025,1,Other theft,6227
+2022,12,Other theft,6189
+2022,8,Other theft,6181
+2022,10,Theft from the person,6133
+2023,3,Other theft,6010
+2024,3,Other theft,5994
+2024,1,Other theft,5873
+2023,4,Other theft,5755
+2024,4,Other theft,5658
+2022,9,Violence and sexual offences,5430
+2022,9,Public order,5425
+2023,1,Other theft,5364
+2022,9,Theft from the person,5019
+2022,9,Other theft,4714
+2022,6,Criminal damage and arson,3881
+2024,11,Criminal damage and arson,3694
+2024,2,Criminal damage and arson,3685
+2023,5,Criminal damage and arson,3643
+2023,11,Criminal damage and arson,3540
+2024,1,Criminal damage and arson,3523
+2023,3,Criminal damage and arson,3466
+2024,5,Criminal damage and arson,3449
+2023,12,Criminal damage and arson,3448
+2023,10,Criminal damage and arson,3259
+2024,1,Robbery,3252
+2024,3,Criminal damage and arson,3246
+2025,1,Criminal damage and arson,3210
+2024,12,Criminal damage and arson,3149
+2023,7,Criminal damage and arson,3124
+2024,4,Criminal damage and arson,3100
+2022,5,Criminal damage and arson,3049
+2023,8,Criminal damage and arson,3031
+2024,10,Criminal damage and arson,3009
+2022,7,Bicycle theft,3005
+2022,5,Drugs,3004
+2022,6,Bicycle theft,2981
+2023,9,Criminal damage and arson,2935
+2023,4,Criminal damage and arson,2883
+2024,7,Criminal damage and arson,2820
+2024,6,Criminal damage and arson,2803
+2022,7,Drugs,2754
+2023,11,Robbery,2752
+2024,2,Robbery,2751
+2022,12,Criminal damage and arson,2732
+2022,8,Bicycle theft,2721
+2023,12,Robbery,2643
+2024,3,Robbery,2563
+2023,6,Criminal damage and arson,2545
+2022,11,Criminal damage and arson,2507
+2024,12,Robbery,2437
+2024,8,Criminal damage and arson,2430
+2023,1,Criminal damage and arson,2426
+2023,2,Robbery,2396
+2022,5,Robbery,2392
+2022,10,Criminal damage and arson,2391
+2025,1,Robbery,2386
+2023,2,Criminal damage and arson,2353
+2023,5,Robbery,2350
+2023,6,Robbery,2301
+2022,5,Shoplifting,2294
+2023,3,Robbery,2292
+2024,5,Robbery,2266
+2022,8,Criminal damage and arson,2255
+2023,1,Robbery,2254
+2024,4,Robbery,2183
+2023,7,Robbery,2174
+2022,5,Bicycle theft,2158
+2023,4,Robbery,1996
+2022,6,Shoplifting,1990
+2024,9,Criminal damage and arson,1961
+2024,6,Robbery,1865
+2023,10,Robbery,1857
+2023,8,Robbery,1856
+2024,6,Bicycle theft,1854
+2024,8,Robbery,1853
+2024,9,Robbery,1851
+2023,9,Bicycle theft,1839
+2022,7,Criminal damage and arson,1830
+2024,10,Robbery,1830
+2024,11,Robbery,1802
+2023,10,Bicycle theft,1801
+2022,11,Bicycle theft,1788
+2022,9,Criminal damage and arson,1729
+2024,3,Bicycle theft,1689
+2024,8,Bicycle theft,1679
+2022,11,Robbery,1658
+2023,6,Bicycle theft,1652
+2023,7,Bicycle theft,1647
+2022,10,Robbery,1632
+2022,10,Bicycle theft,1628
+2023,3,Drugs,1607
+2022,7,Shoplifting,1563
+2023,9,Robbery,1536
+2024,3,Drugs,1535
+2024,10,Drugs,1534
+2024,11,Bicycle theft,1522
+2022,6,Drugs,1476
+2023,11,Bicycle theft,1463
+2024,4,Bicycle theft,1455
+2024,9,Bicycle theft,1454
+2022,11,Drugs,1449
+2023,8,Bicycle theft,1441
+2022,9,Drugs,1437
+2024,4,Drugs,1431
+2023,4,Bicycle theft,1383
+2024,7,Robbery,1379
+2024,1,Bicycle theft,1373
+2024,7,Bicycle theft,1362
+2022,9,Bicycle theft,1352
+2023,5,Bicycle theft,1321
+2024,10,Bicycle theft,1306
+2024,1,Drugs,1289
+2022,7,Robbery,1280
+2022,12,Robbery,1279
+2023,1,Drugs,1267
+2024,11,Drugs,1258
+2024,5,Drugs,1244
+2024,2,Drugs,1238
+2022,12,Drugs,1224
+2023,7,Drugs,1222
+2023,4,Drugs,1206
+2024,5,Bicycle theft,1198
+2023,5,Drugs,1195
+2024,6,Drugs,1190
+2023,10,Drugs,1182
+2022,9,Robbery,1165
+2024,7,Drugs,1152
+2023,11,Shoplifting,1147
+2024,12,Drugs,1139
+2023,3,Bicycle theft,1104
+2023,2,Drugs,1099
+2025,1,Shoplifting,1056
+2023,6,Drugs,1048
+2024,2,Bicycle theft,1033
+2023,12,Drugs,1029
+2022,10,Drugs,1019
+2023,11,Drugs,1012
+2024,2,Shoplifting,986
+2023,2,Bicycle theft,982
+2023,12,Bicycle theft,978
+2023,8,Drugs,955
+2023,9,Drugs,941
+2025,1,Drugs,938
+2022,8,Drugs,934
+2025,1,Bicycle theft,933
+2024,10,Shoplifting,928
+2022,8,Robbery,926
+2024,12,Bicycle theft,922
+2024,8,Shoplifting,905
+2023,1,Bicycle theft,897
+2024,6,Shoplifting,881
+2024,3,Shoplifting,878
+2023,10,Shoplifting,863
+2024,8,Drugs,862
+2024,11,Shoplifting,855
+2023,7,Shoplifting,850
+2022,12,Bicycle theft,812
+2025,1,Other crime,811
+2024,7,Shoplifting,806
+2023,3,Possession of weapons,787
+2023,6,Shoplifting,777
+2023,9,Vehicle crime,775
+2023,8,Shoplifting,769
+2023,2,Shoplifting,767
+2023,3,Shoplifting,745
+2024,4,Shoplifting,742
+2022,6,Robbery,737
+2024,5,Shoplifting,723
+2022,5,Possession of weapons,718
+2023,12,Shoplifting,717
+2022,7,Vehicle crime,700
+2024,12,Possession of weapons,684
+2024,12,Shoplifting,682
+2023,9,Shoplifting,681
+2024,9,Shoplifting,677
+2022,8,Vehicle crime,647
+2022,6,Vehicle crime,641
+2024,10,Possession of weapons,638
+2023,4,Shoplifting,637
+2022,5,Vehicle crime,636
+2022,10,Shoplifting,633
+2023,8,Vehicle crime,629
+2024,11,Vehicle crime,619
+2023,11,Possession of weapons,610
+2022,11,Vehicle crime,600
+2024,9,Drugs,589
+2024,6,Vehicle crime,589
+2024,9,Other crime,586
+2023,7,Vehicle crime,585
+2024,5,Vehicle crime,581
+2022,9,Shoplifting,576
+2023,10,Vehicle crime,569
+2022,11,Shoplifting,562
+2025,1,Possession of weapons,556
+2023,1,Vehicle crime,553
+2023,1,Shoplifting,553
+2023,6,Possession of weapons,549
+2024,10,Vehicle crime,545
+2024,7,Vehicle crime,544
+2024,2,Possession of weapons,540
+2024,1,Shoplifting,537
+2023,8,Possession of weapons,533
+2024,3,Possession of weapons,532
+2022,12,Shoplifting,532
+2022,10,Possession of weapons,527
+2024,3,Other crime,526
+2023,3,Other crime,524
+2022,9,Vehicle crime,520
+2024,10,Other crime,520
+2023,9,Possession of weapons,519
+2024,7,Possession of weapons,513
+2022,7,Possession of weapons,513
+2022,12,Vehicle crime,513
+2023,12,Vehicle crime,509
+2024,4,Possession of weapons,508
+2023,2,Vehicle crime,507
+2024,5,Burglary,501
+2024,5,Possession of weapons,500
+2024,2,Vehicle crime,499
+2023,11,Vehicle crime,499
+2024,11,Other crime,497
+2024,6,Possession of weapons,494
+2023,11,Other crime,493
+2023,7,Possession of weapons,493
+2024,8,Possession of weapons,486
+2023,5,Vehicle crime,482
+2022,10,Vehicle crime,482
+2023,1,Possession of weapons,478
+2022,8,Possession of weapons,475
+2023,10,Possession of weapons,470
+2024,7,Other crime,465
+2024,12,Other crime,459
+2024,8,Vehicle crime,458
+2023,5,Shoplifting,457
+2023,6,Vehicle crime,456
+2023,4,Vehicle crime,455
+2023,4,Possession of weapons,452
+2024,9,Vehicle crime,448
+2024,6,Other crime,445
+2024,1,Possession of weapons,444
+2022,8,Shoplifting,444
+2022,11,Possession of weapons,438
+2024,8,Other crime,433
+2024,11,Possession of weapons,429
+2023,3,Vehicle crime,428
+2022,6,Possession of weapons,423
+2023,4,Other crime,422
+2022,12,Possession of weapons,416
+2023,7,Other crime,410
+2024,4,Vehicle crime,382
+2024,12,Vehicle crime,381
+2024,9,Possession of weapons,378
+2024,3,Vehicle crime,376
+2022,5,Other crime,368
+2023,2,Possession of weapons,364
+2023,10,Other crime,363
+2024,5,Other crime,359
+2023,5,Possession of weapons,356
+2024,1,Other crime,355
+2023,5,Other crime,343
+2025,1,Vehicle crime,335
+2023,12,Other crime,332
+2023,1,Other crime,331
+2022,8,Other crime,326
+2022,12,Other crime,319
+2024,1,Vehicle crime,316
+2023,8,Other crime,292
+2023,9,Other crime,290
+2022,6,Other crime,288
+2022,7,Other crime,274
+2023,6,Other crime,263
+2024,2,Other crime,237
+2024,4,Burglary,237
+2023,2,Other crime,233
+2024,1,Burglary,232
+2023,5,Burglary,224
+2024,4,Other crime,221
+2022,11,Other crime,214
+2022,9,Possession of weapons,210
+2024,10,Burglary,204
+2023,12,Burglary,201
+2022,10,Burglary,196
+2022,5,Burglary,189
+2022,10,Other crime,182
+2022,9,Burglary,179
+2024,2,Burglary,179
+2023,12,Possession of weapons,172
+2024,8,Burglary,170
+2024,3,Burglary,168
+2025,1,Burglary,163
+2022,6,Burglary,163
+2023,7,Burglary,161
+2022,12,Burglary,150
+2022,9,Other crime,145
+2025,2,Violence and sexual offences,137
+2024,9,Burglary,130
+2023,4,Burglary,126
+2023,10,Burglary,123
+2025,3,Violence and sexual offences,115
+2023,8,Burglary,113
+2023,6,Burglary,110
+2023,1,Burglary,106
+2023,2,Burglary,106
+2024,6,Burglary,105
+2023,11,Burglary,101
+2024,12,Burglary,100
+2022,7,Burglary,99
+2022,8,Burglary,99
+2024,11,Burglary,91
+2022,11,Burglary,85
+2024,7,Burglary,77
+2023,9,Burglary,75
+2025,4,Theft from the person,64
+2025,4,Violence and sexual offences,64
+2023,3,Burglary,25

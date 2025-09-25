@@ -1,0 +1,473 @@
+reporter_name,borough,crime_type_name,total_reports
+British Transport Police,Westminster,Theft from the person,61248
+British Transport Police,Westminster,Violence and sexual offences,53288
+British Transport Police,Westminster,Public order,47829
+British Transport Police,Westminster,Other theft,47600
+British Transport Police,Lambeth,Theft from the person,19946
+British Transport Police,Islington,Theft from the person,19751
+British Transport Police,Camden,Theft from the person,19019
+British Transport Police,Lambeth,Violence and sexual offences,17823
+British Transport Police,Islington,Violence and sexual offences,17140
+British Transport Police,Camden,Public order,16869
+British Transport Police,Lambeth,Other theft,16679
+British Transport Police,Lambeth,Public order,16441
+British Transport Police,Camden,Violence and sexual offences,16076
+British Transport Police,Kensington and Chelsea,Theft from the person,15887
+British Transport Police,Islington,Public order,15166
+British Transport Police,Southwark,Violence and sexual offences,14007
+British Transport Police,Camden,Other theft,13204
+British Transport Police,Westminster,Shoplifting,12831
+British Transport Police,Southwark,Theft from the person,12281
+British Transport Police,Southwark,Public order,12249
+British Transport Police,Westminster,Drugs,12026
+British Transport Police,Westminster,Robbery,11592
+British Transport Police,Tower Hamlets,Violence and sexual offences,11484
+British Transport Police,Islington,Other theft,11453
+British Transport Police,Tower Hamlets,Theft from the person,11316
+British Transport Police,Westminster,Criminal damage and arson,11273
+British Transport Police,City of London,Theft from the person,11184
+British Transport Police,Brent,Theft from the person,10737
+British Transport Police,Kensington and Chelsea,Violence and sexual offences,10703
+British Transport Police,Hammersmith and Fulham,Theft from the person,10620
+British Transport Police,Tower Hamlets,Public order,10510
+British Transport Police,Kensington and Chelsea,Public order,9962
+British Transport Police,Southwark,Other theft,9416
+British Transport Police,City of London,Violence and sexual offences,9312
+British Transport Police,Hammersmith and Fulham,Violence and sexual offences,9276
+British Transport Police,Ealing,Public order,9237
+British Transport Police,Kensington and Chelsea,Other theft,9123
+British Transport Police,Brent,Public order,8884
+British Transport Police,Haringey,Violence and sexual offences,8765
+British Transport Police,Newham,Theft from the person,8761
+British Transport Police,Hammersmith and Fulham,Public order,8731
+British Transport Police,Brent,Violence and sexual offences,8607
+British Transport Police,Wandsworth,Public order,8268
+British Transport Police,Ealing,Violence and sexual offences,8244
+British Transport Police,Haringey,Theft from the person,8134
+British Transport Police,Wandsworth,Theft from the person,8070
+British Transport Police,City of London,Other theft,8032
+British Transport Police,Croydon,Violence and sexual offences,7735
+British Transport Police,Wandsworth,Violence and sexual offences,7488
+British Transport Police,Newham,Violence and sexual offences,7430
+British Transport Police,City of London,Public order,7380
+British Transport Police,Haringey,Public order,7336
+British Transport Police,Wandsworth,Other theft,7312
+British Transport Police,Hammersmith and Fulham,Other theft,7301
+British Transport Police,Richmond upon Thames,Bicycle theft,7145
+British Transport Police,Ealing,Theft from the person,7128
+British Transport Police,Redbridge,Theft from the person,7009
+British Transport Police,Croydon,Public order,6891
+British Transport Police,Brent,Other theft,6837
+British Transport Police,Tower Hamlets,Other theft,6637
+British Transport Police,Ealing,Other theft,6550
+British Transport Police,Barnet,Public order,6433
+British Transport Police,Hackney,Violence and sexual offences,6432
+British Transport Police,Barnet,Theft from the person,6379
+British Transport Police,Haringey,Other theft,6373
+British Transport Police,Greenwich,Violence and sexual offences,6131
+British Transport Police,Redbridge,Public order,6094
+British Transport Police,Redbridge,Violence and sexual offences,5945
+British Transport Police,Hackney,Public order,5852
+British Transport Police,Newham,Public order,5820
+British Transport Police,Barnet,Violence and sexual offences,5803
+British Transport Police,Bromley,Criminal damage and arson,5624
+British Transport Police,Lewisham,Public order,5299
+British Transport Police,Greenwich,Public order,5239
+British Transport Police,Bromley,Public order,5227
+British Transport Police,Waltham Forest,Theft from the person,5167
+British Transport Police,Barnet,Other theft,5022
+British Transport Police,Lambeth,Robbery,5002
+British Transport Police,Richmond upon Thames,Criminal damage and arson,4927
+British Transport Police,Westminster,Bicycle theft,4895
+British Transport Police,Merton,Public order,4891
+British Transport Police,Waltham Forest,Violence and sexual offences,4827
+British Transport Police,Lewisham,Violence and sexual offences,4809
+British Transport Police,Newham,Other theft,4794
+British Transport Police,Merton,Violence and sexual offences,4751
+British Transport Police,Lambeth,Criminal damage and arson,4560
+British Transport Police,Richmond upon Thames,Public order,4528
+British Transport Police,Hillingdon,Other theft,4403
+British Transport Police,Redbridge,Other theft,4401
+British Transport Police,Croydon,Robbery,4354
+British Transport Police,Waltham Forest,Public order,4350
+British Transport Police,Brent,Criminal damage and arson,4289
+British Transport Police,Westminster,Possession of weapons,4254
+British Transport Police,Greenwich,Other theft,4250
+British Transport Police,Bromley,Violence and sexual offences,4193
+British Transport Police,Lambeth,Drugs,4061
+British Transport Police,Hackney,Theft from the person,4042
+British Transport Police,Richmond upon Thames,Violence and sexual offences,3994
+British Transport Police,Lewisham,Other theft,3934
+British Transport Police,Havering,Violence and sexual offences,3924
+British Transport Police,Westminster,Other crime,3896
+British Transport Police,Lewisham,Criminal damage and arson,3848
+British Transport Police,Barnet,Criminal damage and arson,3817
+British Transport Police,Hillingdon,Theft from the person,3801
+British Transport Police,Greenwich,Theft from the person,3787
+British Transport Police,Enfield,Violence and sexual offences,3776
+British Transport Police,Kingston upon Thames,Public order,3729
+British Transport Police,Hammersmith and Fulham,Criminal damage and arson,3704
+British Transport Police,Richmond upon Thames,Other theft,3688
+British Transport Police,Haringey,Robbery,3602
+British Transport Police,Merton,Other theft,3598
+British Transport Police,Enfield,Public order,3563
+British Transport Police,Kingston upon Thames,Bicycle theft,3561
+British Transport Police,Hounslow,Public order,3559
+British Transport Police,Havering,Public order,3546
+British Transport Police,Croydon,Other theft,3543
+British Transport Police,Enfield,Theft from the person,3537
+British Transport Police,Hackney,Other theft,3422
+British Transport Police,Merton,Theft from the person,3410
+British Transport Police,Enfield,Criminal damage and arson,3360
+British Transport Police,Ealing,Criminal damage and arson,3348
+British Transport Police,Southwark,Robbery,3332
+British Transport Police,Hillingdon,Public order,3217
+British Transport Police,Camden,Criminal damage and arson,3201
+British Transport Police,Kingston upon Thames,Violence and sexual offences,3158
+British Transport Police,Islington,Drugs,3153
+British Transport Police,Croydon,Theft from the person,3136
+British Transport Police,Bromley,Other theft,3118
+British Transport Police,Haringey,Criminal damage and arson,3078
+British Transport Police,Greenwich,Criminal damage and arson,3046
+British Transport Police,Enfield,Other theft,3036
+British Transport Police,Camden,Robbery,3021
+British Transport Police,Islington,Criminal damage and arson,3021
+British Transport Police,Hounslow,Violence and sexual offences,3019
+British Transport Police,Bromley,Bicycle theft,3013
+British Transport Police,Redbridge,Criminal damage and arson,2990
+British Transport Police,Wandsworth,Criminal damage and arson,2946
+British Transport Police,Bexley,Criminal damage and arson,2924
+British Transport Police,Islington,Robbery,2884
+British Transport Police,Croydon,Criminal damage and arson,2850
+British Transport Police,Waltham Forest,Other theft,2761
+British Transport Police,Tower Hamlets,Criminal damage and arson,2732
+British Transport Police,Barking and Dagenham,Theft from the person,2707
+British Transport Police,Hillingdon,Violence and sexual offences,2606
+British Transport Police,Havering,Theft from the person,2595
+British Transport Police,Southwark,Criminal damage and arson,2540
+British Transport Police,Lewisham,Theft from the person,2527
+British Transport Police,Lambeth,Shoplifting,2509
+British Transport Police,Kingston upon Thames,Other theft,2466
+British Transport Police,Havering,Criminal damage and arson,2455
+British Transport Police,Merton,Criminal damage and arson,2369
+British Transport Police,Hounslow,Theft from the person,2306
+British Transport Police,Bexley,Violence and sexual offences,2279
+British Transport Police,Southwark,Bicycle theft,2237
+British Transport Police,Barking and Dagenham,Violence and sexual offences,2230
+British Transport Police,Wandsworth,Drugs,2186
+British Transport Police,Redbridge,Vehicle crime,2142
+British Transport Police,Richmond upon Thames,Theft from the person,2125
+British Transport Police,Havering,Other theft,2098
+British Transport Police,Hounslow,Other theft,2097
+British Transport Police,Bexley,Public order,2080
+British Transport Police,Newham,Robbery,2053
+British Transport Police,Kensington and Chelsea,Criminal damage and arson,1992
+British Transport Police,Hammersmith and Fulham,Robbery,1959
+British Transport Police,Tower Hamlets,Robbery,1955
+British Transport Police,Brent,Robbery,1953
+British Transport Police,Ealing,Bicycle theft,1911
+British Transport Police,Lambeth,Bicycle theft,1903
+British Transport Police,Hillingdon,Criminal damage and arson,1884
+British Transport Police,Wandsworth,Bicycle theft,1867
+British Transport Police,Wandsworth,Robbery,1854
+British Transport Police,Barking and Dagenham,Public order,1850
+British Transport Police,Kensington and Chelsea,Robbery,1814
+British Transport Police,Barnet,Vehicle crime,1803
+British Transport Police,Hackney,Criminal damage and arson,1801
+British Transport Police,Bromley,Robbery,1801
+British Transport Police,Greenwich,Robbery,1777
+British Transport Police,Southwark,Drugs,1775
+British Transport Police,Hackney,Bicycle theft,1698
+British Transport Police,City of London,Criminal damage and arson,1684
+British Transport Police,Hounslow,Bicycle theft,1647
+British Transport Police,Redbridge,Bicycle theft,1639
+British Transport Police,Harrow,Public order,1615
+British Transport Police,Redbridge,Robbery,1610
+British Transport Police,Barnet,Robbery,1605
+British Transport Police,Merton,Bicycle theft,1586
+British Transport Police,Camden,Shoplifting,1568
+British Transport Police,Westminster,Vehicle crime,1534
+British Transport Police,Bexley,Other theft,1529
+British Transport Police,Greenwich,Bicycle theft,1514
+British Transport Police,Harrow,Violence and sexual offences,1502
+British Transport Police,Camden,Drugs,1451
+British Transport Police,Lewisham,Bicycle theft,1418
+British Transport Police,Southwark,Shoplifting,1411
+British Transport Police,Croydon,Drugs,1373
+British Transport Police,Bromley,Theft from the person,1363
+British Transport Police,Haringey,Drugs,1361
+British Transport Police,Enfield,Vehicle crime,1357
+British Transport Police,Barking and Dagenham,Robbery,1343
+British Transport Police,Kingston upon Thames,Criminal damage and arson,1340
+British Transport Police,Barking and Dagenham,Other theft,1327
+British Transport Police,Ealing,Robbery,1323
+British Transport Police,City of London,Shoplifting,1304
+British Transport Police,Greenwich,Vehicle crime,1303
+British Transport Police,Islington,Bicycle theft,1299
+British Transport Police,Sutton,Public order,1293
+British Transport Police,Bromley,Vehicle crime,1276
+British Transport Police,Westminster,Burglary,1254
+British Transport Police,Richmond upon Thames,Shoplifting,1251
+British Transport Police,Havering,Robbery,1248
+British Transport Police,Barnet,Bicycle theft,1233
+British Transport Police,Sutton,Theft from the person,1230
+British Transport Police,Lewisham,Robbery,1225
+British Transport Police,Croydon,Bicycle theft,1187
+British Transport Police,Tower Hamlets,Drugs,1183
+British Transport Police,Kingston upon Thames,Drugs,1179
+British Transport Police,Newham,Criminal damage and arson,1170
+British Transport Police,Richmond upon Thames,Drugs,1169
+British Transport Police,Islington,Possession of weapons,1165
+British Transport Police,Harrow,Theft from the person,1164
+British Transport Police,Sutton,Violence and sexual offences,1141
+British Transport Police,City of London,Robbery,1124
+British Transport Police,Bexley,Vehicle crime,1112
+British Transport Police,Waltham Forest,Robbery,1094
+British Transport Police,Brent,Drugs,1084
+British Transport Police,Enfield,Robbery,1081
+British Transport Police,Haringey,Bicycle theft,1080
+British Transport Police,City of London,Drugs,1076
+British Transport Police,Hammersmith and Fulham,Drugs,1064
+British Transport Police,Kingston upon Thames,Theft from the person,1064
+British Transport Police,Islington,Other crime,1041
+British Transport Police,Ealing,Drugs,1039
+British Transport Police,Waltham Forest,Criminal damage and arson,1037
+British Transport Police,Newham,Drugs,1002
+British Transport Police,Lambeth,Other crime,960
+British Transport Police,Harrow,Other theft,946
+British Transport Police,Southwark,Possession of weapons,939
+British Transport Police,Bexley,Bicycle theft,939
+British Transport Police,Hounslow,Criminal damage and arson,932
+British Transport Police,Sutton,Other theft,919
+British Transport Police,Enfield,Bicycle theft,895
+British Transport Police,Hammersmith and Fulham,Bicycle theft,889
+British Transport Police,Tower Hamlets,Possession of weapons,888
+British Transport Police,Lambeth,Possession of weapons,885
+British Transport Police,Hackney,Robbery,877
+British Transport Police,Sutton,Bicycle theft,870
+British Transport Police,Greenwich,Shoplifting,866
+British Transport Police,Havering,Bicycle theft,865
+British Transport Police,Wandsworth,Possession of weapons,861
+British Transport Police,Sutton,Criminal damage and arson,851
+British Transport Police,Ealing,Vehicle crime,844
+British Transport Police,Kingston upon Thames,Vehicle crime,835
+British Transport Police,Richmond upon Thames,Robbery,814
+British Transport Police,Haringey,Shoplifting,804
+British Transport Police,Camden,Other crime,804
+British Transport Police,Merton,Robbery,802
+British Transport Police,Havering,Vehicle crime,800
+British Transport Police,Harrow,Criminal damage and arson,770
+British Transport Police,City of London,Bicycle theft,764
+British Transport Police,Wandsworth,Shoplifting,751
+British Transport Police,Greenwich,Drugs,739
+British Transport Police,Redbridge,Drugs,733
+British Transport Police,Camden,Possession of weapons,731
+British Transport Police,Tower Hamlets,Bicycle theft,728
+British Transport Police,Camden,Bicycle theft,706
+British Transport Police,Barking and Dagenham,Criminal damage and arson,693
+British Transport Police,Newham,Bicycle theft,687
+British Transport Police,Havering,Drugs,678
+British Transport Police,Hillingdon,Bicycle theft,664
+British Transport Police,Hillingdon,Robbery,661
+British Transport Police,Hillingdon,Vehicle crime,650
+British Transport Police,Barking and Dagenham,Drugs,648
+British Transport Police,Waltham Forest,Bicycle theft,645
+British Transport Police,Haringey,Possession of weapons,643
+British Transport Police,Bexley,Theft from the person,592
+British Transport Police,Lewisham,Drugs,590
+British Transport Police,Sutton,Robbery,552
+British Transport Police,Hammersmith and Fulham,Shoplifting,548
+British Transport Police,Croydon,Possession of weapons,544
+British Transport Police,Kensington and Chelsea,Drugs,537
+British Transport Police,Newham,Possession of weapons,537
+British Transport Police,Tower Hamlets,Shoplifting,527
+British Transport Police,Harrow,Robbery,519
+British Transport Police,Kensington and Chelsea,Shoplifting,492
+British Transport Police,Brent,Bicycle theft,486
+British Transport Police,City of London,Possession of weapons,480
+British Transport Police,Ealing,Shoplifting,471
+British Transport Police,Richmond upon Thames,Vehicle crime,465
+Avon and Somerset Constabulary,Westminster,Violence and sexual offences,465
+British Transport Police,Kensington and Chelsea,Other crime,464
+British Transport Police,Hammersmith and Fulham,Possession of weapons,454
+British Transport Police,Camden,Burglary,450
+British Transport Police,Bexley,Robbery,444
+British Transport Police,Brent,Vehicle crime,441
+British Transport Police,Hounslow,Robbery,420
+British Transport Police,Southwark,Other crime,419
+British Transport Police,Kingston upon Thames,Shoplifting,417
+British Transport Police,Croydon,Vehicle crime,398
+British Transport Police,Waltham Forest,Drugs,394
+British Transport Police,Haringey,Other crime,377
+British Transport Police,Wandsworth,Other crime,373
+British Transport Police,Newham,Other crime,369
+British Transport Police,Lambeth,Burglary,367
+British Transport Police,Kingston upon Thames,Possession of weapons,345
+British Transport Police,Richmond upon Thames,Other crime,336
+British Transport Police,Hackney,Drugs,309
+British Transport Police,Barnet,Drugs,307
+British Transport Police,Waltham Forest,Vehicle crime,306
+British Transport Police,Brent,Possession of weapons,304
+British Transport Police,Greenwich,Possession of weapons,294
+British Transport Police,Kensington and Chelsea,Bicycle theft,293
+British Transport Police,Hillingdon,Other crime,291
+British Transport Police,Brent,Shoplifting,288
+British Transport Police,Brent,Burglary,282
+British Transport Police,Barking and Dagenham,Bicycle theft,276
+British Transport Police,Kensington and Chelsea,Possession of weapons,268
+British Transport Police,Bromley,Burglary,259
+British Transport Police,Bexley,Drugs,258
+British Transport Police,City of London,Other crime,256
+British Transport Police,Tower Hamlets,Other crime,254
+British Transport Police,Ealing,Possession of weapons,251
+British Transport Police,Redbridge,Other crime,249
+British Transport Police,Redbridge,Shoplifting,246
+British Transport Police,Haringey,Vehicle crime,241
+British Transport Police,Redbridge,Possession of weapons,240
+British Transport Police,Greenwich,Other crime,238
+British Transport Police,Hammersmith and Fulham,Other crime,237
+British Transport Police,Bromley,Drugs,234
+Avon and Somerset Constabulary,Bromley,Violence and sexual offences,232
+British Transport Police,Waltham Forest,Possession of weapons,229
+British Transport Police,Havering,Shoplifting,224
+British Transport Police,Havering,Possession of weapons,222
+British Transport Police,Merton,Drugs,218
+British Transport Police,Croydon,Shoplifting,218
+British Transport Police,Hounslow,Vehicle crime,217
+British Transport Police,Merton,Vehicle crime,216
+British Transport Police,Brent,Other crime,214
+British Transport Police,Barnet,Possession of weapons,214
+British Transport Police,Tower Hamlets,Vehicle crime,212
+British Transport Police,Southwark,Burglary,210
+British Transport Police,Islington,Shoplifting,207
+British Transport Police,Hounslow,Drugs,207
+British Transport Police,Bromley,Possession of weapons,205
+British Transport Police,Barnet,Other crime,202
+British Transport Police,Camden,Vehicle crime,200
+British Transport Police,Hillingdon,Shoplifting,200
+British Transport Police,Kingston upon Thames,Robbery,199
+British Transport Police,Richmond upon Thames,Possession of weapons,199
+British Transport Police,Harrow,Bicycle theft,193
+Avon and Somerset Constabulary,Westminster,Other theft,187
+British Transport Police,Barking and Dagenham,Possession of weapons,187
+British Transport Police,Croydon,Other crime,182
+British Transport Police,Barnet,Shoplifting,180
+British Transport Police,Bexley,Burglary,175
+British Transport Police,Hammersmith and Fulham,Burglary,175
+Avon and Somerset Constabulary,Lewisham,Violence and sexual offences,174
+British Transport Police,Enfield,Possession of weapons,173
+British Transport Police,Kingston upon Thames,Other crime,173
+British Transport Police,Greenwich,Burglary,173
+British Transport Police,Wandsworth,Vehicle crime,161
+Avon and Somerset Constabulary,Barnet,Violence and sexual offences,161
+British Transport Police,Lambeth,Vehicle crime,160
+British Transport Police,Wandsworth,Burglary,157
+Avon and Somerset Constabulary,Hackney,Violence and sexual offences,157
+Avon and Somerset Constabulary,Croydon,Violence and sexual offences,155
+British Transport Police,Lewisham,Possession of weapons,149
+British Transport Police,Tower Hamlets,Burglary,148
+British Transport Police,Hounslow,Shoplifting,147
+British Transport Police,Lewisham,Vehicle crime,146
+British Transport Police,Newham,Shoplifting,141
+Avon and Somerset Constabulary,Hillingdon,Violence and sexual offences,139
+British Transport Police,Merton,Other crime,138
+British Transport Police,Sutton,Drugs,136
+British Transport Police,Croydon,Burglary,135
+British Transport Police,Barking and Dagenham,Shoplifting,132
+British Transport Police,Ealing,Burglary,127
+British Transport Police,Hackney,Possession of weapons,126
+Avon and Somerset Constabulary,Hammersmith and Fulham,Violence and sexual offences,125
+British Transport Police,Bexley,Possession of weapons,123
+British Transport Police,Havering,Other crime,123
+British Transport Police,Harrow,Vehicle crime,123
+British Transport Police,Islington,Burglary,121
+British Transport Police,Bromley,Other crime,111
+British Transport Police,Lewisham,Burglary,111
+British Transport Police,Merton,Shoplifting,108
+British Transport Police,Harrow,Drugs,107
+Avon and Somerset Constabulary,Wandsworth,Violence and sexual offences,106
+Avon and Somerset Constabulary,Hillingdon,Other theft,102
+Avon and Somerset Constabulary,Greenwich,Violence and sexual offences,102
+British Transport Police,Hackney,Other crime,101
+British Transport Police,Sutton,Shoplifting,98
+British Transport Police,Hammersmith and Fulham,Vehicle crime,97
+Avon and Somerset Constabulary,Kensington and Chelsea,Violence and sexual offences,97
+Avon and Somerset Constabulary,Waltham Forest,Violence and sexual offences,97
+British Transport Police,City of London,Burglary,96
+British Transport Police,Hounslow,Possession of weapons,93
+British Transport Police,Hillingdon,Drugs,91
+British Transport Police,Enfield,Drugs,91
+Avon and Somerset Constabulary,Hounslow,Violence and sexual offences,82
+British Transport Police,Ealing,Other crime,77
+British Transport Police,Bexley,Shoplifting,75
+British Transport Police,Hillingdon,Burglary,75
+Avon and Somerset Constabulary,Brent,Violence and sexual offences,75
+British Transport Police,Havering,Burglary,75
+British Transport Police,Waltham Forest,Burglary,74
+British Transport Police,Redbridge,Burglary,68
+British Transport Police,Enfield,Burglary,66
+Avon and Somerset Constabulary,Westminster,Theft from the person,64
+Avon and Somerset Constabulary,Hammersmith and Fulham,Other crime,64
+British Transport Police,Harrow,Other crime,61
+British Transport Police,Sutton,Vehicle crime,61
+British Transport Police,Merton,Possession of weapons,61
+Avon and Somerset Constabulary,Merton,Violence and sexual offences,61
+British Transport Police,Haringey,Burglary,61
+British Transport Police,Barking and Dagenham,Other crime,57
+British Transport Police,City of London,Vehicle crime,52
+Avon and Somerset Constabulary,Southwark,Violence and sexual offences,52
+British Transport Police,Waltham Forest,Shoplifting,50
+Avon and Somerset Constabulary,Lambeth,Violence and sexual offences,50
+British Transport Police,Merton,Burglary,50
+Avon and Somerset Constabulary,Havering,Violence and sexual offences,50
+British Transport Police,Harrow,Burglary,50
+British Transport Police,Harrow,Shoplifting,50
+Avon and Somerset Constabulary,Waltham Forest,Other theft,50
+Avon and Somerset Constabulary,Lambeth,Other crime,50
+British Transport Police,Sutton,Possession of weapons,50
+British Transport Police,Sutton,Other crime,50
+British Transport Police,Harrow,Possession of weapons,50
+Avon and Somerset Constabulary,Kingston upon Thames,Theft from the person,49
+British Transport Police,Enfield,Shoplifting,49
+Avon and Somerset Constabulary,Kensington and Chelsea,Other theft,49
+Avon and Somerset Constabulary,Redbridge,Violence and sexual offences,41
+Avon and Somerset Constabulary,Camden,Violence and sexual offences,36
+Avon and Somerset Constabulary,Islington,Violence and sexual offences,36
+Avon and Somerset Constabulary,Newham,Other crime,36
+British Transport Police,Kensington and Chelsea,Burglary,36
+British Transport Police,Richmond upon Thames,Burglary,36
+Avon and Somerset Constabulary,Richmond upon Thames,Violence and sexual offences,36
+Avon and Somerset Constabulary,Newham,Violence and sexual offences,32
+British Transport Police,Barking and Dagenham,Vehicle crime,32
+Avon and Somerset Constabulary,Barnet,Vehicle crime,25
+British Transport Police,Lewisham,Shoplifting,25
+British Transport Police,Barnet,Burglary,25
+British Transport Police,Kingston upon Thames,Burglary,25
+Avon and Somerset Constabulary,Hackney,Other crime,25
+British Transport Police,Hackney,Burglary,25
+Avon and Somerset Constabulary,Ealing,Possession of weapons,25
+Avon and Somerset Constabulary,Brent,Other crime,25
+Avon and Somerset Constabulary,Enfield,Other crime,25
+Avon and Somerset Constabulary,Barking and Dagenham,Violence and sexual offences,25
+Avon and Somerset Constabulary,Haringey,Violence and sexual offences,25
+Avon and Somerset Constabulary,Hillingdon,Criminal damage and arson,25
+Avon and Somerset Constabulary,Sutton,Violence and sexual offences,25
+Avon and Somerset Constabulary,Sutton,Other theft,25
+British Transport Police,Hackney,Shoplifting,25
+British Transport Police,Newham,Burglary,25
+Avon and Somerset Constabulary,Barnet,Criminal damage and arson,25
+British Transport Police,Southwark,Vehicle crime,25
+British Transport Police,Newham,Vehicle crime,25
+Avon and Somerset Constabulary,Harrow,Violence and sexual offences,25
+British Transport Police,Barking and Dagenham,Burglary,25
+Avon and Somerset Constabulary,City of London,Other theft,16
+British Transport Police,Hillingdon,Possession of weapons,16
+Avon and Somerset Constabulary,Ealing,Burglary,16
+British Transport Police,Hounslow,Burglary,16
+British Transport Police,Hounslow,Other crime,16
+Avon and Somerset Constabulary,Tower Hamlets,Other crime,16
+Avon and Somerset Constabulary,Ealing,Violence and sexual offences,16
+Avon and Somerset Constabulary,Hillingdon,Theft from the person,16
+Avon and Somerset Constabulary,Enfield,Violence and sexual offences,16
+British Transport Police,Waltham Forest,Other crime,16
+Avon and Somerset Constabulary,Tower Hamlets,Violence and sexual offences,16
